@@ -1,8 +1,6 @@
-# maths_py
-- Cálculos en Python
 
-# 📌 Transcripciones_de_voz
-Transcripción de voz utilizando Python con Lenguaje Natural (PLN) con la biblioteca Pandas y Librosa, por último la creación de un espectrograma.
+# 📌  Maths Python
+- Cálculos en Python
 
 ## 🖥️ Tecnologías Utilizadas:
 
